@@ -28,9 +28,6 @@
 <div align="center">
     <img height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=beyondinzanity"/>
 </div>
-<div align="center">
-	<img src="https://cdn.jsdelivr.net/gh/beyondinzanity/beyondinzanity/assets/github-contribution-grid-snake.svg" />
-</div>
 
 ## Contact 
 <div> 
@@ -46,22 +43,3 @@
 
 ![BeyondInzanity's GitHub stats](https://github-readme-stats.vercel.app/api?username=beyondinzanity&show_icons=true&theme=gruvbox)
 
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=beyondinzanity&theme=gruvbox&border_radius=4.5) -->
-
-#
-
-<!--
-
-**beyondinzanity/beyondinzanity** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
