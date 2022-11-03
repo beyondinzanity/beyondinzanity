@@ -30,6 +30,8 @@
 	<img src="https://cdn.jsdelivr.net/gh/beyondinzanity/beyondinzanity/assets/github-contribution-grid-snake.svg" />
 </div>
 
+https://github.com/{{beyondinzanity}}/{{beyondinzanity}}/blob/output/github-contribution-grid-snake.svg
+
 ### 📊 Stats
 
 ![BeyondInzanity's GitHub stats](https://github-readme-stats.vercel.app/api?username=beyondinzanity&show_icons=true&theme=gruvbox)
