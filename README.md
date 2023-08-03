@@ -1,4 +1,4 @@
-# 🐱‍👤 Beyond_Inzanity
+# 🥷🏻 Beyond_Inzanity
 
 **`Digital Craftsman (Developer)`**
 
